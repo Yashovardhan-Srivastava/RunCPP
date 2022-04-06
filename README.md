@@ -1,2 +1,2 @@
 # RunCPP
-A Simple bash script to run a C++ program.
+A Simple bash script to run a C/C++ program.
